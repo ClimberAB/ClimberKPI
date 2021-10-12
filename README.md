@@ -1,5 +1,5 @@
-# Climber KPI
-<a href="http://www.climberextensions.com/" class="image_link" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
+# Climber KPI (Deprecated and replaced with Vizlib Simple KPI)
+<a href="https://home.vizlib.com/vizlib-self-service-for-qlik-sense/" class="image_link" target="_blank"><img src="./screenshots/downloadbutton.png?raw=true" 
 alt="Download latest release" width="400" height="40" border="0" /></a>
 
 >The Climber KPI is fully responsive and works for all screen sizes. Features include background trends for both actual and target, navigation and tooltip on hover to show values. It is also possible to include images as background or use the extension just to show images. Colors are completely flexible but have easy standard settings to allow quick and easy creation of nice looking KPIs. For more details take a look at the video found here: https://youtu.be/9zdfYshNel4
